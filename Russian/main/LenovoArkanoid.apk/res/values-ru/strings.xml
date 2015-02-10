@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lenovo_arkanoid_gamename">Пузыри</string>
+    <string name="lenovo_arkanoid_newgame">ПЕРЕЗАПУСК</string>
+    <string name="lenovo_arkanoid_quit">ВЫХОД</string>
+    <string name="lenovo_arkanoid_share">ПОДЕЛИТЬСЯ</string>
+    <string name="lenovo_arkanoid_countdown">Время:</string>
+    <string name="lenovo_arkanoid_history">История рекордов:</string>
+    <string name="lenovo_arkanoid_score">Очков</string>
+    <string name="share_text">Это пузыри!</string>
+    <string name="share_title">ПОДЕЛИТЬСЯ</string>
+    <string name="msg_exit">Выйти?</string>
+    <string name="msg_accept">Я знаю</string>
+    <string name="msg_game_help">Помощь</string>
+    <string name="msg_game_fast">Быстро</string>
+    <string name="msg_game_slow">Медленно</string>
+    <string name="msg_game_coefficient">Настройки чувствительности</string>
+	<string name="msg_game_help_string">Наклоните влево и вправо для управления скейтбордом</string>
+</resources>

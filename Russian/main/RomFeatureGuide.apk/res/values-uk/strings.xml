@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Гід по нових функціях</string>
+    <string name="change_theme_title">Спробуйте нову тему</string>
+    <string name="change_theme_content">Хочете спробувати нову системну тему?</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_wait">Зачекайте...</string>
+</resources>

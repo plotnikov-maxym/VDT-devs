@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preview">
+        <item>@drawable/themepreview</item>
+        <item>@drawable/themepreview_1</item>
+    </array>
+    <string-array name="pref_icon_size_values">
+        <item>57</item>
+        <item>48</item>
+    </string-array>
+    <string-array name="pref_slide_effect_values">
+        <item>NONE</item>
+        <item>ROTATE</item>
+        <item>BULLDOZE</item>
+        <item>WINDMILL</item>
+        <item>CUBE</item>
+        <item>WAVE</item>
+        <item>CYLINDER</item>
+    </string-array>
+    <string-array name="pref_gesture_values">
+        <item>Не використовувати</item>
+        <item>Меню робочого столу</item>
+        <item>Список запущених додатків</item>
+        <item>Панель повідомлень</item>
+        <item>Позиціонування</item>
+        <item>Екран блокування</item>
+    </string-array>
+    <string-array name="pref_icon_text_size_values">
+        <item>15</item>
+        <item>12</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="pref_slide_effect_choices">
+        <item>Стандарт</item>
+        <item>Поворот</item>
+        <item>Зрушення</item>
+        <item>Млин</item>
+        <item>Куб</item>
+        <item>Хвиля</item>
+        <item>Циліндр</item>
+    </string-array>
+    <string-array name="pref_gesture_choices">
+        <item>Не використовувати</item>
+        <item>Меню робочого столу</item>
+        <item>Список запущених додатків</item>
+        <item>Панель повідомлень</item>
+        <item>Знайти іконку</item>
+        <item>Екран блокування</item>
+    </string-array>
+</resources>

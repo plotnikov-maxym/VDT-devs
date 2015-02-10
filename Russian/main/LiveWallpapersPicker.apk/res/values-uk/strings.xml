@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_name">Вибір анімованих шпалер</string>
+    <string name="live_wallpaper_picker_title">Вибрати анімовані шпалери</string>
+    <string name="live_wallpaper_picker_label">Анімовані шпалери</string>
+    <string name="live_wallpaper_preview_title">Перегляд динамічних шпалер</string>
+    <string name="configure_wallpaper">Установки</string>
+    <string name="wallpaper_instructions">Установити шпалери</string>
+    <string name="live_wallpaper_empty">Немає динамічних шпалер.</string>
+    <string name="set_live_wallpaper">Установити шпалери</string>
+    <string name="wallpaper_title_and_author">%1$s від %2$s</string>
+    <string name="live_wallpaper_loading">Завантаження динамічних шпалер…</string>
+    <string name="wallpaper_cancel">Скасувати</string>
+</resources>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="box_type_titles">
+        <item>Усі записи</item>
+        <item>Блокнот</item>
+        <item>Вибране</item>
+        <item>Закладки</item>
+        <item>Нотатки</item>
+    </string-array>
+    <string-array name="note_detail_title">
+        <item>Блокнот</item>
+        <item>День</item>
+        <item>Положення</item>
+        <item>Розмір</item>
+    </string-array>
+    <string-array name="note_time_title">
+        <item>Синхронізувати</item>
+        <item>Оновити</item>
+        <item>Створити</item>
+    </string-array>
+    <string-array name="default_category_name">
+        <item>Мій блокнот</item>
+        <item>Робота та навчання</item>
+        <item>Натхнення</item>
+        <item>Графік подорожей</item>
+        <item>Бухгалтерська книга</item>
+    </string-array>
+    <string-array name="default_category_flag">
+        <item>1</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+    <string-array name="search_notes_array">
+        <item>за оновленим часу</item>
+        <item>за перевіреним часу</item>
+        <item>по створеному часу</item>
+    </string-array>
+    <string-array name="introdution_titles">
+        <item>Мені подобається....</item>
+        <item>Барвисті спогади, прекрасні ідеї, теплі моменти, незабутні моменти, дозвольте нам зберегти їх для вас, зберегти на все життя.</item>
+        <item>Використовуйте зображення і голосові записи, щоб зробити зміст запису більш полним.Незавісімо від того, чим ви занімаетесь.Запішіте свої нотатки, не турбуючись ні про що.</item>
+        <item>Перед поїздкою можна зробити детальний план, детальний список багажу, перевірити різну інформацію, намалювати графік... LeNote впорається з цим без праці</item>
+    </string-array>
+    <string-array name="default_note">
+        <item>Виберіть файл запису і слухайте його ~</item>
+        <item>Lenote, ми чекаємо на вас!</item>
+    </string-array>
+    <string-array name="introdution_content_menu">
+        <item>нова замітка, і інформація про запис.</item>
+        <item>нова замітка, і група в різних секціях.</item>
+        <item>лише одним натисненням кнопки, ви можете зберігати свої нотатки на локальний компютер, Pad і так далі, і будете мати можливість перевірити їх в будь-який час і в будь-якому місці.</item>
+    </string-array>
+    <string-array name="introdution_content_edit">
+        <item>зберегти запис</item>
+        <item>класи заміток, натисніть для зміни</item>
+        <item>Ви можете відзначити вашу записку, як щось важливе</item>
+        <item>натисніть для більшого ~ (додати географічного розташування, етикетки і вкладення в нотатки)</item>
+    </string-array>
+    <string-array name="introdution_content_mix">
+        <item>візьміть фото, запис і обєднайте всі разом</item>
+    </string-array>
+    <string-array name="settingsynctimeinterval_item_array">
+        <item>1:00</item>
+        <item>2:00</item>
+        <item>3:00</item>
+        <item>4:00</item>
+    </string-array>
+    <string-array name="notepad_longdialog_array">
+        <item>Змінити запис</item>
+        <item>Видалити запис</item>
+        <item>Переглянути деталі</item>
+    </string-array>
+    <string-array name="allnote_longdialog_array">
+        <item>Змінити запис</item>
+        <item>Видалити запис</item>
+        <item>Переглянути запис</item>
+    </string-array>
+    <string-array name="notebrowse_more_array">
+        <item>Перегляд деталей</item>
+        <item>Переглянути запис</item>
+    </string-array>
+</resources>

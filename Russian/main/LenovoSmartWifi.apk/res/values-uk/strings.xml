@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WlanBindingLocation</string>
+    <string name="setting_activity">WLAN привязка</string>
+    <string name="dialog_title">Включити WLAN?</string>
+    <string name="dialog_text">Це місце було привязане, включите WLAN?</string>
+    <string name="disable_dialog_title">Відключити WLAN?</string>
+    <string name="disable_dialog_text">Це місце знаходиться далеко від розташування підключених точок, відключити WLAN?</string>
+    <string name="show_dialog">Не нагадувати</string>
+    <string name="disable_show_dialog">Не нагадувати</string>
+    <string name="wifi_enable_text">Введіть розташування</string>
+    <string name="wifi_enable_summary">При вході в розташування підключення точок з рівнем сигналу 3 або вище і є дані GRPS, включите WLAN</string>
+    <string name="wifi_disable_text">Далеке розташування</string>
+    <string name="wifi_disable_summary">Коли розташування точки далеко, відключіть WLAN</string>
+    <string name="wifi_setting_summary">Звязування підключеної мережі WLAN, а потім, якщо ви використовуєте послуги передачі даних 3G/2G GPRS в її зоні обслуговування, ви будете підключені до цього WLAN</string>
+    <string name="wifi_popup_tip">Спливаюче вікно</string>
+    <string name="wifi_auto_enable">Автоматичне підключення</string>
+    <string name="wifi_auto_disable">Автоматичне відключення</string>
+    <string name="wifi_popup_0">Коли відбудеться зєднання підключених точок, введіть дані в спливаюче вікно</string>
+    <string name="wifi_popup_1">Коли відбудеться зєднання підключених точок, введіть дані в спливаюче вікно</string>
+    <string name="wifi_popup_2">Не нагадувати</string>
+    <string name="confirm_yes">Так</string>
+    <string name="confirm_no">Ні</string>
+    <string name="enable_wifi_hint">WLAN запис під час підключення до WLAN мережі, для збереження потоку даних</string>
+    <string name="disable_wifi_hint">WLAN запис відключена для збереження енергії</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MTK менеджер перегріву</string>
+    <string name="coolers">Кулери</string>
+    <string name="thermal_sensors">Теплові датчики</string>
+    <string name="thermal_protection">Захист від перегріву</string>
+    <string name="thermal_policy_file_colon">"Теплова політика: "</string>
+    <string name="apply_new_thermal_policy">Приймаю</string>
+    <string name="tz_device_info">TZ інфо</string>
+    <string name="thermal_logger">Лог</string>
+    <string name="alert_dialog_two_buttons_title">Теплове попередження!</string>
+    <string name="alert_dialog_two_buttons_message">Телефон необхідно охолодити!</string>
+    <string name="alert_dialog_ok">Oк</string>
+    <string name="alert_dialog_cancel">Скасування</string>
+</resources>

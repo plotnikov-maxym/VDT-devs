@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0//EN" "http://www.wapforum.org/DTD/xhtml-mobile10.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-type" name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no, width=device-width">
+<head>
+<title>CTC主页</title>
+<style>
+<!--
+      
+      a {text-decoration : none; color:black;}
+      
+-->
+</style>
+    <script language="JavaScript">
+
+      function refresh(){
+          window.location.reload();
+      }
+
+      function onSearch(){
+    	  //document.getElementById('Search').submit();
+        var keyword = document.getElementById("keyword").value;
+        greentea.onWebpageEvent(1000, keyword);
+      }
+      
+      function onGo(){
+	      var result = document.getElementById('kw').value;
+	      var strRegex = "^((https|http|ftp|rtsp|mms)?://)[^\\[]*$";
+	      var re = new RegExp(strRegex);
+	      
+        if(!result.toLocaleLowerCase().match(re)) {
+       		result = "http://" + result;
+		    }
+		    
+			greentea.onWebpageEvent(1001, result);
+     	  //window.open(result);
+      } 
+    </script>
+   
+
+</head>
+
+<body bgcolor="#dfe0e6">
+
+  <div>
+    <div style="margin-left: 0; margin-right: 0; margin-top: 8; margin-bottom: 0">
+  		<center>
+  		<img border="0" src="logo_chinatelecom.gif"></center>
+    </div>
+  	
+    <!--
+    <div>
+      <input type=text id="keyword" style="width:80%" size=20/>
+      <input type="button" value="搜索" onClick="onSearch();"/>
+  	</div>
+  	
+  	<div style="margin-left: 0; margin-right: 0; margin-top: 5; margin-bottom: 0">
+  		<center>
+          	<input type=text id=kw  value="http://" emptyok="false" /><button type="button"  onclick='onGo()'>链接</button>
+          </center>
+  	</div>
+  -->
+
+    <table style="width:100%">
+      <tr>
+        <td style="width:90%">
+          <input type=text id="keyword" style="width:100%"/>
+        </td>
+        <td style="width:10%">
+          <input type="button" value="搜索" onClick="onSearch();"/>
+        </td>
+      </tr>
+      <tr>
+        <td style="width:90%">
+          <input type=text id=kw  value="http://" emptyok="false" style="width:100%"/>
+        </td>
+        <td style="width:10%">
+          <button type="button"  onclick='onGo()'>链接</button>
+        </td>
+      </tr>
+      </tr>
+    </table>
+ 
+  <div style="background-image:url('Browser_subtitle_bg.bmp'); height:25px" width="100%">
+    <img src="browser_subtitle_bookmark.png"/>
+    <span>书签</span>
+      <Button style="color:black;" onClick="window.greentea.onWebpageEvent(1002, '');">添加</Button>
+      <Button style="color:black;" onClick="window.greentea.onWebpageEvent(1003, '');">历史记录</Button>
+  </div>
+
+	 <div style="overflow:auto;
+                     scrollbar-type:thick;
+                     scrollbar-thumb-color:#148CC8;
+                     scrollbar-base-color:#A0A0A0;
+                     scrollbar-border-color:#ffffff;
+                     width:100%;
+                     margin-top: 15px;">
+    <table id="bookmarks" style="width: 100%; border: 1px none" height=100% bgcolor="#f5f5f8" width="291">
+    </table>
+  </div>
+
+</div>
+ 
+</body>
+
+    <script language="JavaScript">    
+      document.getElementById("bookmarks").innerHTML = window.greentea.onWebpageEvent(1004, '');
+    </script>
+</html>

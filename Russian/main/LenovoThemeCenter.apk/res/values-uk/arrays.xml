@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="previewname">
+        <item>Екран блокування</item>
+        <item>Лаунчер</item>
+        <item>Іконки</item>
+        <item>Шпалери</item>
+        <item>Система</item>
+        <item>Ideafriend</item>
+        <item>Екран виклику</item>
+        <item>Виіджети</item>
+        <item>Анімація включення</item>
+        <item>Шрифт</item>
+    </string-array>
+    <string-array name="main_mode">
+        <item>@string/show_bug_type</item>
+        <item>@string/show_app_list</item>
+    </string-array>
+</resources>

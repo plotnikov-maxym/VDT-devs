@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gemini_sim_info_number_display_format_entries">
+        <item>Перші 4 цифри</item>
+        <item>Останні 4 цифри</item>
+        <item>Не показувати</item>
+    </string-array>
+</resources>

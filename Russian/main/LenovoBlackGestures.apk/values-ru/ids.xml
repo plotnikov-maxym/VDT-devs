@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="apps_dlg_tv">false</item>
+    <item type="id" name="apps_dlg_gv">false</item>
+    <item type="id" name="apps_dlg_btn">false</item>
+    <item type="id" name="app_img">false</item>
+    <item type="id" name="app_label">false</item>
+    <item type="id" name="gestures_and_settings_pref">false</item>
+    <item type="id" name="gestures_app_settings_btn">false</item>
+    <item type="id" name="help_gif">false</item>
+    <item type="id" name="help_summary">false</item>
+    <item type="id" name="help_ok">false</item>
+    <item type="id" name="container">false</item>
+    <item type="id" name="gesture_repeat_checkbox">false</item>
+    <item type="id" name="actionBarImageBtn">false</item>
+    <item type="id" name="actionBarSwitch">false</item>
+    <item type="id" name="device_phone_list">false</item>
+    <item type="id" name="snapshot_settings">false</item>
+    <item type="id" name="main_frame">false</item>
+    <item type="id" name="lenovo_has_next">false</item>
+    <item type="id" name="radiobutton">false</item>
+    <item type="id" name="snap_shooting">false</item>
+    <item type="id" name="preview">false</item>
+    <item type="id" name="view_layout">false</item>
+    <item type="id" name="popup_saving">false</item>
+    <item type="id" name="list_layout">false</item>
+    <item type="id" name="camera_launcher">false</item>
+    <item type="id" name="picture_count">false</item>
+    <item type="id" name="saving_operation">false</item>
+</resources>

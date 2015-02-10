@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="push_status_contents">
+        <item>Вы можете теперь загрузить бесплатный поток ресурсов через компьютер легко управлять мобильным</item>
+        <item>Найдено %1$s мусора, Помощник может помочь Вам его удалить</item>
+        <item>Музыка, модные игры.. Приходите и получите их бесплатно</item>
+        <item>У вас уже %1$ дней без резервного копирования, сделайте копию</item>
+    </string-array>
+    <string-array name="push_status_titles">
+        <item>Lenovo Советы</item>
+        <item>Телефон медленный, как улитка</item>
+        <item>Много трафика - качайте мобильный контент</item>
+        <item>Будьте осторожны, чтобы не потерять бважные данные</item>
+    </string-array>
+</resources>

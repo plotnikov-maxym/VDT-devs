@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="installed_apps_component">com.android.providers.applications/.ApplicationLauncher</string>
+    <string name="browser_search_component">com.android.browser/.BookmarkSearch</string>
+    <string name="apps_search_activity" />
+    <string name="google_search_base">http://www.google.com/m?hl=%1$s</string>
+    <string name="google_search_base_pattern">http://%1$s/m?hl=%2$s</string>
+    <string name="default_search_domain">.google.com</string>
+    <string name="google_suggest_base">http://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
+    <string name="app_name">Поиск</string>
+    <string name="search_widget">Поиск</string>
+    <string name="remove_from_history">Удалить из истории поиска</string>
+    <string name="remove_from_history_failed">"Не удалось удалить элемент из истории"</string>
+    <string name="corpus_selection_heading">Поиск</string>
+    <string name="corpus_label_global">Везде</string>
+    <string name="corpus_label_web">Web</string>
+    <string name="corpus_description_web">Веб-поиск, закладки и история браузера</string>
+    <string name="corpus_label_apps">Прилож.</string>
+    <string name="corpus_description_apps">Названия приложений</string>
+    <string name="corpus_hint_apps">Поиск Прилож.</string>
+    <string name="menu_settings">Настройки поиска</string>
+    <string name="search_settings">Настройки поиска</string>
+    <string name="google_settings_category_title">Google Поиск</string>
+    <string name="device_settings_category_title">Очистить ярлыки</string>
+    <string name="system_search_category_title">Телефон</string>
+    <string name="search_sources">Поиск пункты</string>
+    <string name="search_sources_summary">Выбирайте, что искать на телефоне</string>
+    <string name="clear_shortcuts">Очистить ярлыки</string>
+    <string name="clear_shortcuts_summary">Очистить ярлыки недавно выбранных поисковых подсказок</string>
+    <string name="clear_shortcuts_prompt">"Это очистит все ярлыки для недавно выбранных поисковых подсказок. 
+
+(Чтобы очистить историю браузера, используйте настройки браузера.)"</string>
+    <string name="clear_shortcuts_agree">Ok</string>
+    <string name="clear_shortcuts_disagree">Отмена</string>
+    <string name="menu_help">Помощь</string>
+    <string name="google_search_label">Google</string>
+    <string name="google_app_label">Поиск Google</string>
+    <string name="google_search_hint">Поиск Google</string>
+    <string name="google_search_description">предложения Google Поиска</string>
+    <string name="voice_search_hint_title">Попробуйте сказать:</string>
+    <string name="voice_search_hint_quotation_start">“</string>
+    <string name="voice_search_hint_quotation_end">”</string>
+    <string name="search_history">История</string>
+    <string name="search_engine_setting">Поиск engine</string>
+    <string name="pref_content_search_engine_consistency">согласованность движка поиска</string>
+    <string name="pref_search_engine_unify">Унификация поисковой системы</string>
+    <string name="pref_search_engine_unify_summary">Применить изменения поисковой системы к браузере</string>
+    <string name="pref_content_search_engine">Выберите поисковую систему</string>
+    <string name="imei">IMEI</string>
+    <string name="meid">MEID</string>
+    <string name="show_external_version_title">Версия</string>
+    <string name="show_internal_version_title">Внутренняя Версия</string>
+    <string name="show_kernel_version_title">Версия ядра</string>
+    <string name="version_unavailable">Ядро недоступно</string>
+    <string name="factory_wipe_data">восстановить заводские настройки</string>
+    <string name="factory_wipe_data_warning">Нажмите OK, чтобы очистить все пользовательские данные, будет восстановлено  завод.состояние (в том числе встроенную SD карту), но сохраняет установленые приложения, настоятельно рекомендуется, что обычные пользователи не используют, так как не потерять телефонный материал</string>
+    <string name="switch_language">Переключение языков</string>
+    <string name="corpus_settings">Уст.</string>
+    <string name="clear_editrecord">Очистить историю поиска</string>
+    <string name="clear_editrecord_summary">Очистите последние три история поиска записей</string>
+    <string name="clear_editrecord_prompt">Это очистит все недавно входные записи история поиска</string>
+    <string name="clear_editrecord_agree">Ok</string>
+    <string name="clear_editrecord_disagree">Отмена</string>
+    <string name="welcome">Добро пожаловать</string>
+    <string name="empty_text">локальный	поиск,  необходимых Вам ресурсов</string>
+    <string name="language_english">en</string>
+    <string name="baidu_search_engine_english">baidu_en</string>
+    <string name="web_search_text">Нет похожего контента, попробовать поискать онлайн~</string>
+    <string name="search_label">Прилож.</string>
+    <string name="settings_description">Названия установленных приложений</string>
+    <string name="search_empty">Нет совпадений</string>
+    <string name="application_desc">Приложение</string>
+</resources>

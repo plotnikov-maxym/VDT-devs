@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="repeated">З повтором</string>
+    <string name="one_time">Один раз</string>
+    <string name="calendar_storage">Память календаря</string>
+    <string name="upgrade_msg">Оновлення бази даних календаря.</string>
+    <string name="calendar_default_name">Стандартний</string>
+    <string name="calendar_info">Інформація про календар</string>
+    <string name="calendar_info_error">Помилка</string>
+    <string name="calendar_info_no_calendars">Календарів немає</string>
+    <string name="calendar_info_events">Події: %1$d</string>
+    <string name="calendar_info_events_dirty">Події: %1$d, Незбережені: %2$d</string>
+    <string name="provider_label">Календар</string>
+    <string name="debug_tool_delete_button">Видалити зараз</string>
+    <string name="debug_tool_start_button">Почати</string>
+    <string name="debug_tool_message">Ви збираєтеся 1) зробити копію бази даних свого календаря на картці SD або в пам’яті USB, які може читати будь-яка програма, і 2) надіслати базу даних електронною поштою. Не забудьте видалити базу даних, щойно її буде скопійовано з пристрою або отримано як електронний лист.</string>
+    <string name="debug_tool_email_sender_picker">Виберіть програму для надсилання файлу</string>
+    <string name="debug_tool_email_subject">Базу даних календаря приєднано</string>
+    <string name="debug_tool_email_body">У вкладенні база даних мого календаря з усіма запланованими подіями й особистою інформацією. Працюйте з нею обережно.</string>
+</resources>

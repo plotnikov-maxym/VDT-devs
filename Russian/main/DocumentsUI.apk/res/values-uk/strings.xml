@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Документи</string>
+    <string name="title_open">Відкрити в</string>
+    <string name="title_save">Зберегти в</string>
+    <string name="menu_create_dir">Створити папку</string>
+    <string name="menu_grid">Вигляд таблиці</string>
+    <string name="menu_list">Вигляд списку</string>
+    <string name="menu_sort">Критерій сортування:</string>
+    <string name="menu_search">Пошук</string>
+    <string name="menu_settings">Установки</string>
+    <string name="menu_open">Відкрити</string>
+    <string name="menu_save">Зберегти</string>
+    <string name="menu_share">Надати загальний доступ</string>
+    <string name="menu_delete">Видалити</string>
+    <string name="mode_selected_count">Вибрано %1$d</string>
+    <string name="sort_name">За назвою</string>
+    <string name="sort_date">За датою змінення</string>
+    <string name="sort_size">За розміром</string>
+    <string name="drawer_open">Показати кореневі каталоги</string>
+    <string name="drawer_close">Сховати кореневі каталоги</string>
+    <string name="save_error">Не вдалося зберегти документ</string>
+    <string name="create_error">Не вдалося створити папку</string>
+    <string name="query_error">Не вдалося виконати пошук документів</string>
+    <string name="root_recent">Останні</string>
+    <string name="root_available_bytes">%1$s вільного місця</string>
+    <string name="root_type_service">Служби збереження даних</string>
+    <string name="root_type_shortcut">Ярлики</string>
+    <string name="root_type_device">Пристрої</string>
+    <string name="root_type_apps">Інші програми</string>
+    <string name="pref_advanced_devices">Показати покращені пристрої</string>
+    <string name="pref_file_size">Показати розмір файлу</string>
+    <string name="pref_device_size">Показати розмір пристрою</string>
+    <string name="empty">Немає елементів</string>
+    <string name="toast_no_application">Не вдалося відкрити файл</string>
+    <string name="toast_failed_delete">Не вдалося видалити деякі документи</string>
+    <string name="share_via">Надати загальний доступ через</string>
+</resources>

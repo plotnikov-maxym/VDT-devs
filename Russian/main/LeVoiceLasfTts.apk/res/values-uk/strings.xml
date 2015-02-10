@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SUS_MSG_FAIL_NOWLANCONNECTED">Відкрийте бездротову локальну мережу.</string>
+    <string name="SUS_MSG_LATESTVERSION">Ця версія є поточною.</string>
+    <string name="SUS_MSG_NOTFOUND">Оновлень немає.</string>
+    <string name="SUS_MSG_FAIL_NETWORKUNAVAILABLE">Мережа недоступна.</string>
+    <string name="SUS_MSG_WARNING_PENDING">Відбувається оновлення!</string>
+    <string name="SUS_MSG_DOWNLOADCOMPLETE">Завантаження завершено.</string>
+    <string name="SUS_MSG_UPDATE_EXCEPTION">Оновлення не виконано. Повторіть спробу.</string>
+    <string name="SUS_SETTINGS_NEVERPROMPT">Не повідомляти</string>
+    <string name="SUS_SETTINGS_NEWVERPROMPT">Повідомляти про нову версію</string>
+    <string name="SUS_MSG_INSUFFICIENTSTORAGESPACE">"Недостатньо пам'яті."</string>
+    <string name="SUS_VERSIONUPDATE">Знайдено нову версію.</string>
+    <string name="SUS_UPDATEDESC">Опис:</string>
+    <string name="SUS_UPDATEVERPROMPT_VERNAME">"Ім'я:"</string>
+    <string name="SUS_UPDATEVERPROMPT_VERSIZE">Розмір:</string>
+    <string name="SUS_UPDATESIZEPROMPT_WLAN">Рекомендується завантажувати за допомогою бездротової локальної мережі.</string>
+    <string name="SUS_UPDATE">Оновити</string>
+    <string name="SUS_CANCEL">Пізніше</string>
+    <string name="SUS_DOWNLOAD_TITLE">Завантаження SUS</string>
+    <string name="SUS_CANCELBUTTON">Скасувати</string>
+    <string name="SUS_NOTIFICATION_TITLE">Повідомлення</string>
+    <string name="SUS_NOTIFICATION_UPDATINGPROMPT">Оновлення... Зачекайте.</string>
+    <string name="SUS_NOTIFICATION_TIMEOUTPROMPT">Минув час очікування мережі. Спробуйте пізніше...</string>
+    <string name="SUS_NOTIFICATION_HIDE_BUTTONTEXT">Я знаю</string>
+    <string name="SUS_NOTIFICATION_ABORTUPDATE_BUTTONTEXT">Перервати</string>
+    <string name="SUS_NOTIFICATION_AUTOHIDPROMPTINFO_1">(Вікно буде приховано через</string>
+    <string name="SUS_NOTIFICATION_AUTOHIDPROMPTINFO_2">сек)</string>
+    <string name="SUS_NOTIFICATION_INSTALLAPK_TITLE">Торкніться, щоб установити.</string>
+    <string name="SUS_NOTIFICATION_INSTALLAPK">Торкніться, щоб установити:</string>
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpapers">Анімовані шпалери Android</string>
+    <string name="wallpaper_walkaround">Погляд крізь</string>
+    <string name="wallpaper_walkaround_author">Google</string>
+    <string name="wallpaper_walkaround_desc">"Тепер ви можете бачити крізь пристрій, щоб безпечно працювати з ним на ходу. "</string>
+    <string name="wallpaper_grass">Трава</string>
+    <string name="wallpaper_grass_author">Google</string>
+    <string name="wallpaper_grass_desc">Травинки, які повільно колишуться на фоні денного або нічного неба.</string>
+    <string name="wallpaper_galaxy">Галактика</string>
+    <string name="wallpaper_galaxy_author">Google</string>
+    <string name="wallpaper_galaxy_desc">Галактика, яка складається із зірок у повільній круговерті.</string>
+    <string name="wallpaper_fall">Вода</string>
+    <string name="wallpaper_fall_author">Google</string>
+    <string name="wallpaper_fall_desc">Опадає осіннє листя&lt;br> По воді розходяться кола:&lt;br> Рідкі шпалери дзен</string>
+    <string name="wallpaper_clock">Полярний годинник</string>
+    <string name="wallpaper_clock_author">Google</string>
+    <string name="wallpaper_clock_desc">Показує дату й час як арки за годин. стрілкою: місяць, день, година, хвилина й секунда.</string>
+    <string name="wallpaper_nexus">Nexus</string>
+    <string name="wallpaper_nexus_author">Google</string>
+    <string name="wallpaper_nexus_desc">Погляд у середину нейронної мережі.</string>
+    <string name="clock_settings">Установки полярного годинника</string>
+    <string name="show_seconds">Показувати секунди</string>
+    <string name="variable_line_width">Змінювати ширину кілець</string>
+    <string name="palette">Кольорова палітра</string>
+    <string name="palette_gray">Залізо</string>
+    <string name="palette_violet">Північ</string>
+    <string name="palette_matrix">Зелений екран</string>
+    <string name="palette_white_c">Полярний ведмідь (динамічний)</string>
+    <string name="palette_black_c">Чорна діра (динамічна)</string>
+    <string name="palette_halloween">Гарбузовий пиріг</string>
+    <string name="palette_zenburn">Позаземний фруктовий салат</string>
+    <string name="palette_oceanic">Блакитний лазер</string>
+</resources>

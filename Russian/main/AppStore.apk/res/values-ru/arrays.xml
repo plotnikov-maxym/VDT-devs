@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tips_array">
+        <item>"Поддельные приложения опасны
+Просканируйте телефон с Sabre Tulong"</item>
+        <item>"Установите смарт-обновление через
+WiFi, чтобы содерж.прилож.обновленными"</item>
+        <item>"Подключите USB кабель
+ для управления телефоном с ПК"</item>
+        <item>"Обновление приложений в режиме сжатия Updating apps in data-saving mode 
+данных сохран. до 92% трафика"</item>
+        <item>"Вы можете игнорировать обновления 
+приложений, котрые не хотите обновлять"</item>
+        <item>"LenovoStore зона игр
+ Множество подарков для Вас"</item>
+    </string-array>
+</resources>

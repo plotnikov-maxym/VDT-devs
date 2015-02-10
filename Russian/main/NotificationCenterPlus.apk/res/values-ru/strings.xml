@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Центр уведомлений Плюс</string>
+    <string name="flashlight_notification_title">Выключить фонарик</string>
+    <string name="flashlight_notification_text">Нажмите, чтобы закрыть фонарик</string>
+    <string name="app_notification_manager_title">Активируйте уведомления приложений</string>
+    <string name="app_notification_optimized_title">Расставьте приоритеты уведомления приложений</string>
+    <string name="lenovo_app_closed_notifications_manager_title">Отключены  уведомления приложения(й)</string>
+    <string name="lenovo_app_opened_notifications_manager_title">Включены  уведомления приложения(й)</string>
+    <string name="lenovo_progress_dialog_message">Загрузка…</string>
+    <string name="app_disable_notifications_dlg_title">Отключить уведомления?</string>
+    <string name="app_disable_notifications_dlg_text">Вы можете пропустить важные уведомления и события, выключив свои уведомления.</string>
+    <string name="app_add_optimized_notifications_title">Неприоритет. уведомления приложения(й)</string>
+    <string name="app_del_optimized_notifications_title">Приоритет. уведомления приложения(й)</string>
+    <string name="app_vip_notifications_title">VIP приложение</string>
+    <string name="app_close_optimized_notifications_title">Закрыть уведомления приложения</string>
+    <string name="app_close_optimized_notifications_summary">Программы могут быть установлены в качестве предпочтительных только после включения уведомлений для них в Управлении уведомлениями приложений</string>
+    <string name="lenovo_app_add_optimized_notification_toast_text">Приоритет. \"%1$s\" уведомления</string>
+    <string name="lenovo_app_add_notification_toast_text">Enabled уведомления for \"%1$s\"</string>
+    <string name="lenovo_no_app_nofitication">Нет приложений</string>
+    <string name="app_del_optimized_notifications_dlg_title">Отменить предпочтительный статус?</string>
+    <string name="app_del_optimized_notifications_dlg_text">Вы можете игнорировать важные предупреждения или события при изменении его статуса уведомлений.</string>
+    <string name="lenovo_app_delete_optimized_notification_toast_text">Неприоритет. \"%1$s\" уведомления</string>
+    <string name="lenovo_app_delete_notification_toast_text">Откл.уведомления для \"%1$s\"</string>
+    <string name="lenovo_flashlight_error_notification_title">Нельзя включить подсветку</string>
+    <string name="lenovo_flashlight_error_camera_in_use">Камера в настоящее время используется, нельзя включить подсветку</string>
+    <string name="lenovo_flashlight_error_psensor_blocked">Верхний край экрана закрыт, не в состоянии включить подсветку</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Очищення карти SD</string>
+    <string name="loading_please_wait">Завантаження...</string>
+    <string name="white_list_not_found">Помилка</string>
+    <string name="sdcard_not_available">Помилка</string>
+    <string name="clearSDcardFailed">Помилка</string>
+    <string name="deleteFileFailed">Помилка</string>
+    <string name="fileNotFoud">Увага: Файл не знайдено</string>
+    <string name="clear_start">Почати</string>
+    <string name="clear_success">Успіх</string>
+    <string name="clearing">Очищення</string>
+    <string name="checking">Перевірка</string>
+    <string name="check_file">Перевірити</string>
+    <string name="check_sucess">Успіх</string>
+    <string name="check_fail">Помилка</string>
+</resources>

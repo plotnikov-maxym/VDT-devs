@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpapers">MTK Live Wallpapers</string>
+    <string name="vlw">Відео шпалери</string>
+    <string name="vlw_desc">Вибір відео шпалер.</string>
+    <string name="VideoScene_error_text_invalid_progressive_playback">Извените, це відео не підходить.</string>
+    <string name="VideoScene_error_text_unknown">Це відео не може бути відтворене.</string>
+    <string name="VideoScene_error_media_removed">Медіа файл видалений</string>
+    <string name="VideoScene_error_sdcard_unmounted">SD карта витягнута</string>
+    <string name="VideoScene_info_wait_sdcard">В очікуванні підготовки SD картки</string>
+    <string name="VideoScene_error_media_not_found">​​Медіа файл не існує</string>
+    <string name="VideoScene_error_be_set">Шкода, відео не може бути встановлене як відео шпалери</string>
+    <string name="VideoEditor_error_title">Не можу відтворити</string>
+    <string name="VideoEditor_error_button">Oк</string>
+    <string name="VideoEditor_error_no_video_selected">Не обрано</string>
+    <string name="VideoEditor_warning_limited_duration">Виберіть не менше 1 сек відео</string>
+    <string name="VideoScene_reload_after_mount">Завантаження.</string>
+    <string name="select_video">SD карта</string>
+    <string name="select_default">Стандарт</string>
+    <string name="select">Вибрати відео шпалер</string>
+    <string name="set_wallpaper">Вибір шпалер</string>
+    <string name="title">Відео шпалери</string>
+    <string name="default_title">Стандартне відео</string>
+    <string name="capture_video">Камера</string>
+    <string name="menu_item_add_item">Вибрати відео з SD картки</string>
+    <string name="group_video">Вибрати відео</string>
+    <string name="group_folder">Вибрати папку</string>
+    <string name="folder_info">Відео &lt;br>з&lt;br></string>
+</resources>

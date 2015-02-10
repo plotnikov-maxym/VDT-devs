@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpaper_vis1">Візуалізатор</string>
+    <string name="wallpaper_vis2">Форма хвилі</string>
+    <string name="wallpaper_vis3">Спектр</string>
+    <string name="wallpaper_vis4">Вимірювач гучності</string>
+    <string name="wallpaper_vis5">Багато</string>
+    <string name="wallpapers">Шпалери із графічними ефектами музики</string>
+    <string name="author">Google</string>
+    <string name="vis2_desc">Малює звукову хвилю поточного музичного запису.</string>
+    <string name="vis3_desc">Відображає спектр частот поточного музичного запису.</string>
+    <string name="vis4_desc">Імітує аналоговий шумомір.</string>
+    <string name="vis5_desc">Усі графічні ефекти музики, що поволі стають об’ємними.</string>
+</resources>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="clir_display_values">
+        <item>Настройки сети по умолчанию</item>
+        <item>Скрыть номер</item>
+        <item>Показывать номер</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>LTE / WCDMA</item>
+        <item>LTE</item>
+        <item>Глобал</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>Только EvDo</item>
+        <item>CDMA без EvDo</item>
+        <item>CDMA/EvDo (авторежим)</item>
+        <item>GSM/WCDMA (авторежим)</item>
+        <item>Только WCDMA</item>
+        <item>Только GSM</item>
+        <item>Предпочтительно GSM/WCDMA</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>английский</item>
+        <item>французский</item>
+        <item>испанский</item>
+        <item>японский</item>
+        <item>корейский</item>
+        <item>китайский</item>
+        <item>иврит</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Только домашняя</item>
+        <item>Автоматически</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>RUIM/SIM</item>
+        <item>NV</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>TTY Выкл</item>
+        <item>TTY Полн.</item>
+        <item>TTY HCO</item>
+        <item>TTY VCO</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>Обычные</item>
+        <item>Длинные</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>2G/3G (авто)</item>
+        <item>Только 3G</item>
+        <item>Только 2G</item>
+    </string-array>
+    <string-array name="umts_network_preferences_choices">
+        <item>2G/3G (авто)</item>
+        <item>Только 3G</item>
+    </string-array>
+    <string-array name="lte_usim_prefer_network_mode_choices">
+        <item>4G/3G/2G(Авто)</item>
+        <item>3G/2G(Авто)</item>
+        <item>Только 2G</item>
+    </string-array>
+    <string-array name="lte_sim_prefer_network_mode_choices">
+        <item>3G/2G(Авто)</item>
+        <item>Только 2G</item>
+    </string-array>
+    <string-array name="language_list_values">
+    	<item>Все языки</item>
+        <item>Немецкий</item>
+        <item>Английский</item>
+        <item>Итальянский</item>
+        <item>Французский</item>
+        <item>Испанский</item>
+        <item>Голландский</item>
+        <item>Шведский</item>
+        <item>Датский</item>
+        <item>Португальский</item>
+        <item>Финский</item>
+        <item>Норвежский</item>
+        <item>Греческий</item>
+        <item>Турецкий</item>
+        <item>Венгерский</item>
+        <item>Польский</item>
+        <item>Другие</item>
+        <item>Чешский</item>
+        <item>иврит</item>
+        <item>Арабский</item>
+        <item>Русский</item>
+        <item>Исландский</item>
+    </string-array>
+    <string-array name="plmn_prefer_network_type_choices">
+        <item>2G</item>
+        <item>3G</item>
+        <item>4G</item>
+        <item>2G/3G</item>
+        <item>2G/4G</item>
+        <item>3G/4G</item>
+        <item>2G/3G/4G</item>
+    </string-array>
+</resources>

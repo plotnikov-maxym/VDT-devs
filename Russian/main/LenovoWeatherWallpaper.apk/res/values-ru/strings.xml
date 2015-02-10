@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpaper">Фон 2 с погодой Lenovo</string>
+    <string name="animation">Переключатель анимации погоды</string>
+    <string name="switchopen">Анимация погоды включена</string>
+    <string name="switchoff">Анимация погоды выключена</string>
+</resources>

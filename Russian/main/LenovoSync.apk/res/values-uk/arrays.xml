@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="onekeySelectorValues">
+        <item>Контакти</item>
+        <item>Повідомлення</item>
+        <item>Журнали викликів</item>
+    </string-array>
+    <string-array name="app_backup_states">
+        <item>Очікування</item>
+        <item>Резервування</item>
+        <item>Зарезервовано</item>
+        <item>Помилка</item>
+        <item>OK</item>
+        <item>OK</item>
+        <item>Скасовано</item>
+        <item>OK</item>
+    </string-array>
+    <string-array name="app_regain_states">
+        <item>Очікування</item>
+        <item>Завантаження</item>
+        <item>Видалити</item>
+        <item>Помилка</item>
+        <item>Оновлення</item>
+        <item>Встановлено</item>
+        <item>Скасовано</item>
+        <item>Установка</item>
+    </string-array>
+    <string-array name="sync_operation_items">
+        <item>Зберегти контакти телефону</item>
+        <item>Обєднання контактів</item>
+        <item>Зберегти онлайн контакти</item>
+    </string-array>
+    <string-array name="sync_operation_items_local">
+        <item>Зберегти контакти телефону</item>
+        <item>Зберегти онлайн контакти</item>
+    </string-array>
+    <string-array name="sync_operation_items_cloud">
+        <item>Зберегти контакти телефону</item>
+        <item>Зберегти онлайн контакти</item>
+    </string-array>
+    <string-array name="frequency_question">
+        <item>Який стандартний пароль від SYNCit? Як його змінити? Що робити , якщо я забув пароль?</item>
+        <item>Скільки це коштує?</item>
+        <item>Що таке синхронізація контактів?</item>
+        <item>Чому кількість моїх контактів зменшується після синхронізація?</item>
+        <item>Як управляти збереженими даними?</item>
+        <item>Чи безпечний SYNCit? Чи зможе хто-небудь отримати доступ до моїх даних?</item>
+        <item>Як вийти з облікового запису?</item>
+        <item>Як відновити контакти , видалені випадково?</item>
+        <item>Мій телефон - НЕ Lenovo. Чи можу я використовувати SYNCit?</item>
+        <item>Які платформи підтримує SYNCit?</item>
+    </string-array>
+    <string-array name="frequency_answer">
+        <item>" Пароль за замовчуванням : Ви отримаєте повідомлення від Lenovo після реєстрації вашого телефону в SYNCit . У разі , якщо ви не отримували повідомлення або втратили його - зверніться до графі Забули пароль 
+
+Зміна пароля : Відвідайте сайт http://cloud.lenovo.com з вашого PC і увійдіть в особистий кабінет . Потім змініть пароль.
+
+Забув ПАРЛ : Натисніть на [Далі] в лівому верхньому кутку SYNCit . Потім виберіть [Налаштування профілю] . Якщо ви були авторизовані в профіль , то вийдіть з нього. Потім натисніть [Забули пароль] . "</item>
+        <item>SYNCit сам по собі безкоштовний, але ваш оператор може стягувати з вас гроші за передачу даних.</item>
+        <item>Поєднує дані телефону з хмарою.</item>
+        <item>SYNCit автоматично зєднує дублікати контактів у вашому телефоні.</item>
+        <item>Відвідайте сайт http://cloud.lenovo.com з вашого PC і увійдіть в особистий кабінет . Потім ви можете керувати збереженими даними за вашим бажанням .</item>
+        <item>SYNCit зберігає особисту інформацію в безпеці , порівнянної з банківською. Це гарантує , що ваші дані нікуди не витечуть і не потраплять до третіх осіб</item>
+        <item>Натисніть [Далі] в лівому - верхньому куті. Потім виберіть [Налаштування профілю] . Натисніть [Параметри] на правому верхньому куті , потім натисніть клавішу Menu і виберіть [Вийти] .</item>
+        <item>Якщо ви видалите свої контакти , то ви можете спробувати [Відновити] їх через телефон або відвідайте сайт http://cloud.lenovo.com з вашого PC і увійдіть в особистий кабінет .</item>
+        <item>Звичайно ви можете , за умови , що ваш телефон базується на одній з наступних платформ: IOS , Android , Java , Symbian. Шукайте версію , соотвествующих вашої платформі</item>
+        <item>SYNCit підтримує IOS , Android , Java , Symbian платформи.</item>
+    </string-array>
+    <string-array name="menu_main_txt">
+        <item>Контакт</item>
+        <item>SMS</item>
+        <item>Фото</item>
+        <item>Дані додатків</item>
+        <item>Додатки</item>
+        <item>Документи</item>
+        <item>MMS</item>
+        <item>Журнал дзвінків</item>
+    </string-array>
+    <string-array name="backupfrequency">
+        <item>Кожні 3:00</item>
+        <item>Кожен день</item>
+        <item>Щотижня</item>
+        <item>Виключено</item>
+    </string-array>
+    <string-array name="backupfrequencyvalue">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+</resources>

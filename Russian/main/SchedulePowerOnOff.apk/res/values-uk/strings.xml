@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="schedule_power_on_off_settings_title">Увімк. і викл. за розкладом</string>
+    <string name="schedule_power_on_off_time">Час</string>
+    <string name="schedule_power_on_off_repeat">Повторити</string>
+    <string name="schedule_power_on_off_set">Установка розкладу увімк./викл. живлення</string>
+    <string name="schedule_power_on_set">Графік включення живлення</string>
+    <string name="schedule_power_off_set">Встановити вимикання за розкладом</string>
+    <string name="enable_schpwr">Включити</string>
+    <string name="disable_schpwr">Відключити</string>
+    <string name="day">1 день</string>
+    <string name="days">" %s дн . "</string>
+    <string name="hour">за 1 годину</string>
+    <string name="hours">%s годину .</string>
+    <string name="minute">1 хв .</string>
+    <string name="minutes">" %s хв. "</string>
+    <string name="every_day">кожен день</string>
+    <string name="never">Ніколи</string>
+    <string name="done">Готово</string>
+    <string name="revert">Скасувати</string>
+    <string name="schpwr_shutdown_message">Телефон вимкнеться через %s секунд(и)</string>
+    <string name="schpwr_shutdown_message_second">Телефон вимкнеться через %s секунду</string>
+</resources>

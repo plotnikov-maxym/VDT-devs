@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="download_title">Завантаження</string>
+    <string name="cancel">Відхилити</string>
+    <string name="ok">ОК</string>
+    <string name="download_file_already_exist">Файл вже існує, перезаписати чи ні?</string>
+    <string name="notification_download_complete_op01">Файл зберігається у:</string>
+    <string name="app_label">Менеджер завантажень</string>
+    <string name="permlab_downloadManager">Відкрити диспетчер завантаження.</string>
+    <string name="permdesc_downloadManager">Дозволяє програмі отримувати доступ до менеджера завантажень і використовувати його для завантаження файлів. Шкідливі програми можуть використовувати це для переривання завантажень і доступу до особистої інформації.</string>
+    <string name="permlab_downloadManagerAdvanced">Додаткові функції диспетчера завантаження.</string>
+    <string name="permdesc_downloadManagerAdvanced">Дозволяє програмі отримувати доступ до розширених функцій менеджера завантажень. Шкідливі програми можуть використовувати це для переривання завантажень і доступу до особистої інформації.</string>
+    <string name="permlab_downloadCompletedIntent">Надсилати сповіщення про завантаження.</string>
+    <string name="permdesc_downloadCompletedIntent">Дозволяє програмі надсилати сповіщення про завершені завантаження. Шкідливі програми можуть використовувати це для перешкоджання роботі інших програм, які завантажують файли.</string>
+    <string name="permlab_seeAllExternal">Бачити всі завантаження на картку SD</string>
+    <string name="permdesc_seeAllExternal">Дозволяє програмі бачити всі завантаження на карту SD незалежно від програми, яка їх завантажила.</string>
+    <string name="permlab_downloadCacheNonPurgeable">Зарезервувати простір у кеш-пам’яті завантажень</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Дозволяє програмі завантажувати файли в кеш-пам’ять завантажень, яку неможливо автоматично видалити, якщо менеджеру завантажень потрібно більше місця.</string>
+    <string name="permlab_downloadWithoutNotification">завантаження файлів без попередження</string>
+    <string name="permdesc_downloadWithoutNotification">Дозволяє програмі завантажувати файли за допомогою менеджера завантажень без будь-якого сповіщення для користувача.</string>
+    <string name="permlab_accessAllDownloads">Доступ до всіх системних завантажень</string>
+    <string name="permdesc_accessAllDownloads">Дозволяє програмі переглядати та змінювати всі завантаження, ініційовані будь-якою програмою в системі.</string>
+    <string name="download_unknown_title">&lt;Без імені></string>
+    <string name="notification_download_complete">Завантаження завершено.</string>
+    <string name="notification_download_failed">Завантаження не вдалося.</string>
+    <string name="notification_need_wifi_for_size">Розмір завантаж. вимагає Wi-Fi.</string>
+    <string name="notification_paused_in_background">Призупинено у фоновому режимі.</string>
+    <string name="wifi_required_title">Розмір файлу завантаження завеликий для цієї мережі</string>
+    <string name="wifi_required_body" formatted="false">"Для завершення цього завантаження обсягом %s потрібне з'єднання Wi-Fi.
+
+Доторкніться до кнопки «%s », щоб почати це завантаження під час наступного з'єднання з мережею Wi-Fi."</string>
+    <string name="wifi_recommended_title">Поставити в чергу на завантаження?</string>
+    <string name="wifi_recommended_body" formatted="false">"Якщо почати завантаження %s зараз, це може скоротити час роботи від акумулятора та/або призвести до надмірного використання з’єднання для мобільного передавання даних, за що ваш оператор мобільного зв’язку може стягувати додаткову плату залежно від вашого тарифного плану передачі даних.
+
+Доторкніться до кнопки «%s», щоб почати це завантаження наступного разу, коли ви підключитеся до мережі Wi-Fi."</string>
+    <string name="button_queue_for_wifi">Черга</string>
+    <string name="button_cancel_download">Скасувати</string>
+    <string name="button_start_now">Почати зараз</string>
+    <string name="download_percent">%d%%</string>
+    <string name="download_remaining">Залишилося %s</string>
+    <string name="download_no_application_title">Неможливо відкрити файл</string>
+    <string name="root_downloads">Завантаження</string>
+    <string name="download_queued">У черзі</string>
+    <string name="download_running">Виконується</string>
+    <string name="download_error">Помилка завантаження</string>
+    <string name="download_running_percent">Виконується, %d%%</string>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Секретні коди</string>
+    <string name="show_kernel_version_title">Версія ядра</string>
+    <string name="show_internal_version_title">Версія системи</string>
+    <string name="show_external_version_title">Версія</string>
+    <string name="show_modem_version_title">Версія модему</string>
+    <string name="show_system_version_title">Версія система</string>
+    <string name="show_sn_title">SN</string>
+    <string name="version_unavailable">Помилка перевірки версії</string>
+    <string name="factory_wipe_data">Вайп дати через факторі мод</string>
+    <string name="factory_wipe_data_warning">Натисніть ОК, щоб очистити розділ дата</string>
+    <string name="factory_wipe_data_cancel">Скасувати</string>
+    <string name="sdcard_not_found">​​Фактори вайп дата провалений</string>
+    <string name="sdcard_not_found_tip">"Ця функція вимагає підтримки SD карти,
+        переконайтеся, що SD-карта вставлена ​​"</string>
+    <string name="sdcard_out_of_space">SD карта заповнена</string>
+    <string name="sdcard_out_of_space_tip">" На SD залишилось %1$sM вільного місця, але цього
+недостатньо. Потрібно %2$sM вільного місця"</string>
+    <string name="imei">IMEI</string>
+    <string name="imei_invalid">Невідомий</string>
+    <string name="info_title_text">Lenovo мобільного телефону</string>
+    <string name="sar_text">Конкретна інформація</string>
+    <string name="sar_explanation">" Цей мобільний пристрій відповідає національних рамках SAR .
+Межа SAR для мобільних пристроїв становить 1,6 Вт/кг на 1г тканини. Тест на SAR проводяться з використанням стандартних робочих положень з передавального пристрою на найвищому сертифікованому рівні потужності в усіх діапазонах частот.
+Найбільше значення SAR для вашого пристрою Lenovo при тестуванні на голові та тілі викладена наступним чином: "</string>
+    <string name="more_info">Для отримання додаткової інформації, будь ласка, зверніться до інструкції з експлуатації.</string>
+    <string name="regulatory_information">Нормативна інформація</string>
+</resources>

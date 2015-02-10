@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_pwd_question">
+        <item>Імя мого першого шкільного вчителя?</item>
+        <item>Мій улюблений фрукт?</item>
+        <item>День народження мого батька?</item>
+        <item>Назва улюбленої композиції?</item>
+        <item>Назва мого домашньої тварини?</item>
+    </string-array>
+    <string-array name="menu_items">
+        <item>Налаштування</item>
+        <item>Оновити</item>
+        <item>Відгук</item>
+        <item>Довідка</item>
+        <item>Про програму</item>
+        <item>Рекомендувати</item>
+    </string-array>
+    <string-array name="menu_items_cmcc">
+        <item>Налаштування</item>
+        <item>Оновити</item>
+        <item>Відгук</item>
+        <item>Довідка</item>
+    </string-array>
+    <string-array name="traffic_month_sheet_date">
+        <item>1-е число</item>
+        <item>2-е число</item>
+        <item>3-е число</item>
+        <item>4-е число</item>
+        <item>5-е число</item>
+        <item>6-е число</item>
+        <item>7-е число</item>
+        <item>8-е число</item>
+        <item>9-е число</item>
+        <item>10-е число</item>
+        <item>11-е число</item>
+        <item>12-е число</item>
+        <item>13-е число</item>
+        <item>14-е число</item>
+        <item>15-е число</item>
+        <item>16-е число</item>
+        <item>17-е число</item>
+        <item>18-е число</item>
+        <item>19-е число</item>
+        <item>20-е число</item>
+        <item>21-е число</item>
+        <item>22-е число</item>
+        <item>23-е число</item>
+        <item>24-е число</item>
+        <item>25-е число</item>
+        <item>26-е число</item>
+        <item>27-е число</item>
+        <item>28-е число</item>
+        <item>29-е число</item>
+        <item>30-е число</item>
+        <item>31-е число</item>
+    </string-array>
+    <string-array name="traffic_notification_display_mode">
+        <item>Використовувана SIM</item>
+        <item>SIM1</item>
+        <item>SIM2</item>
+    </string-array>
+    <string-array name="traffic_correct_cycle_time">
+        <item>Щодня</item>
+        <item>Кожні 3 дні</item>
+        <item>Щотижня</item>
+        <item>Закрити</item>
+    </string-array>
+    <string-array name="ipcustomer">
+        <item>12593</item>
+        <item>17951</item>
+        <item>вибірковий</item>
+    </string-array>
+    <string-array name="antispamadd_whitephone">
+        <item>З журналу дзвінків</item>
+        <item>З повідомлення SMS</item>
+        <item>З контактів</item>
+        <item>Додати вручну</item>
+    </string-array>
+    <string-array name="antispamhandup_mode">
+        <item>Інтелектуальний перехоплення</item>
+        <item>Блокир. тільки чений список</item>
+        <item>Конт. тільки контакти</item>
+        <item>Конт. тільки Білий список</item>
+    </string-array>
+    <string-array name="block_list_entries">
+        <item>Зайнято</item>
+        <item>Телефон вимкнений</item>
+        <item>Абонент не доступний</item>
+        <item>Невірний номер</item>
+    </string-array>
+    <string-array name="nightcall_harsset">
+        <item>Тільки Контакти</item>
+        <item>Толко Білий список</item>
+    </string-array>
+    <string-array name="quick_add">
+        <item>З Журналу дзвінків</item>
+        <item>З повідомлення SMS</item>
+        <item>З Контактів</item>
+        <item>Додати вручну</item>
+    </string-array>
+    <string-array name="call_mode">
+        <item>Звичайна відповідь</item>
+        <item>Скинути виклик</item>
+        <item>Скинути виклик і відіслати SMS</item>
+    </string-array>
+    <string-array name="lock_mode">
+        <item>Блокир. після вимк. екрану</item>
+        <item>Заблокувати при виході.</item>
+        <item>Через 5 хв. бездіяльності</item>
+    </string-array>
+    <string-array name="private_quick_add">
+        <item>З Журналу дзвінків</item>
+        <item>З повідомлення SMS</item>
+        <item>З Контактів</item>
+        <item>вручну</item>
+    </string-array>
+    <string-array name="sms_mode">
+        <item>Чи не повідомляти</item>
+        <item>Повідомлення до панелі повідомлень</item>
+        <item>Повідомлення в панелі повідомлень і просигналити</item>
+        <item>Повідомлення в панелі повідомлень і вібрувати</item>
+    </string-array>
+</resources>

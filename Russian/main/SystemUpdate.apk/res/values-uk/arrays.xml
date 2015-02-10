@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="update_options_entries">
+        <item>OTA оновлення</item>
+        <item>Оновлення з SD картки</item>
+        <item>Оновлення OTA і з SD картки</item>
+    </string-array>
+    <string-array name="update_options_values">
+        <item>OTA_ОБНОВЛЕНІЕ_ТОЛЬКО</item>
+        <item>SDCARD_ОБНОВЛЕНІЕ_ТОЛЬК</item>
+        <item>OTA_SDCARD_ОБНОВЛЕНІЕ</item>
+    </string-array>
+</resources>

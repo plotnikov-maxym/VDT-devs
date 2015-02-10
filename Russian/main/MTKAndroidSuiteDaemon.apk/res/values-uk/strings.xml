@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MTK Android Suite Daemon</string>
+    <string name="noti_main_service_started">Запуск MTK Android Suite Daemon.</string>
+    <string name="noti_main_service_running">MTK Android Suite Daemon запущений.</string>
+    <string name="noti_main_service_stopped">Зупинка MTK Android Suite Daemon.</string>
+    <string name="noti_main_service_backup">MTK Android Suite Daemon виконує резервне копіювання.</string>
+</resources>

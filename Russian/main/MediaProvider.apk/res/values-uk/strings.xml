@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="uid_label">Медіа</string>
+    <string name="app_label">Пам’ять медіавмісту</string>
+    <string name="upgrade_msg">Оновлення бази даних медіафайлів.</string>
+    <string name="artist_label">Виконавець</string>
+    <string name="ringtone_default">Стандартний сигнал дзвінка</string>
+    <string name="notification_sound_default">Стандартний звук сповіщення</string>
+    <string name="alarm_sound_default">Стандартний звук будильника</string>
+    <string name="root_images">Зображення</string>
+    <string name="root_videos">Відео</string>
+    <string name="root_audio">Звук</string>
+</resources>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="box_type_titles">
+        <item>Все записи</item>
+        <item>Избранное</item>
+        <item>Блокнот</item>
+        <item>Закладки</item>
+        <item>Настройки</item>
+    </string-array>
+    <string-array name="note_detail_title">
+        <item>Блокнот</item>
+        <item>День</item>
+        <item>Положение</item>
+        <item>Размер</item>
+    </string-array>
+    <string-array name="note_time_title">
+        <item>Синхронизировать</item>
+        <item>Обновить</item>
+        <item>Создать</item>
+    </string-array>
+    <string-array name="default_category_name">
+        <item>Мой блокнот</item>
+    </string-array>
+    <string-array name="settingsynctimeinterval_item_array">
+        <item>1 час</item>
+        <item>2 часа</item>
+        <item>12 часов</item>
+        <item>день</item>
+        <item>неделя</item>
+    </string-array>
+    <string-array name="notepad_longdialog_array">
+        <item>Изменить запись</item>
+        <item>Удалить запись</item>
+        <item>Просмотреть детали</item>
+    </string-array>
+    <string-array name="allnote_longdialog_array">
+        <item>Изменить запись</item>
+        <item>Удалить запись</item>
+        <item>Просмотреть запись</item>
+    </string-array>
+    <string-array name="trash_longdialog_array">
+        <item>Восстановить заметки</item>
+        <item>Удалить заметки</item>
+    </string-array>
+    <string-array name="notebrowse_more_array">
+        <item>Вложения</item>
+        <item>подробности</item>
+    </string-array>
+    <string-array name="template_audio_longdialog_array">
+        <item>Заменить звук</item>
+        <item>Удалить звук</item>
+    </string-array>
+    <string-array name="template_photo_longdialog_array">
+        <item>Замена изображения</item>
+        <item>Удалить изображение</item>
+    </string-array>
+    <string-array name="weather_dialog_name">
+        <item>ясно</item>
+        <item>облачно</item>
+        <item>дождь</item>
+        <item>снег</item>
+        <item>туман</item>
+    </string-array>
+    <string-array name="live_notify_messages">
+        <item>"{title:'Облако Le-Note',content:'Облако Le-Note- Ваш помощник, не даст пропустить ничего важного',code:1}"</item>
+        <item>"{title:'Облако Le-Note',content:'Сохранит Визитные карточки, сертификаты и т.д.',code:2}"</item>
+        <item>"{title:'Облако Le-Note',content:'Поможет спланировать Вашу поездку',code:3}"</item>
+        <item>"{title:'Облако Le-Note',content:'Поможет Вам записывать ежедневную программу',code:4}"</item>
+    </string-array>
+    <string-array name="note_type">
+        <item>с заметками</item>
+        <item>предстоящий</item>
+    </string-array>
+    <string-array name="note_browse_more">
+        <item>Добавить заметку</item>
+        <item>Поделиться</item>
+        <item>Ссылка</item>
+        <item>Удалить</item>
+    </string-array>
+    <string-array name="list_note_type">
+        <item>все</item>
+        <item>с заметками</item>
+        <item>предстоящий</item>
+        <item>голос</item>
+    </string-array>
+    <string-array name="introduction_titles">
+        <item>Минимум опыта</item>
+        <item>Веселые Шаблоны</item>
+        <item>Облако для синхронизации</item>
+    </string-array>
+    <string-array name="introduction_contents1">
+        <item>Умный новый вход</item>
+        <item>Биллинг, список дел, шаблоны дневника</item>
+        <item>Свобода синхронизации, мульти-платформа</item>
+    </string-array>
+    <string-array name="introduction_contents2">
+        <item>Записи на кончиках пальцев</item>
+        <item>Откройте для себя новые возможности для записи</item>
+        <item>Никогда не потеряете заметки</item>
+    </string-array>
+    <string-array name="other_feedback_way">
+        <item>神机工场&lt;br>&lt;a href=http://legc.lenovo.com/lefactory/channel/legc_leyjs.apk>下载神机工场&lt;/a>，参加&lt;乐云记事>新版内测</item>
+        <item>官方QQ群：208235210 乐云记事粉丝群与官方运营、开发、产品真实、实时互动</item>
+        <item>微博号：&lt;a href=\"http://weibo.com/u/3936993678\">@乐云记事&lt;/a>&lt;br>最及时的微博信息推送平台</item>
+        <item>微信号：乐云记事&lt;br>订阅微信内容的最佳通道</item>
+    </string-array>
+    <string-array name="default_audio_string_array">
+        <item>Облако Le-Note делает записи проще</item>
+        <item>Три характеристики для лучшего опыт</item>
+        <item>1.Простота：</item>
+        <item>Zero-второй старт, кнопку, чтобы запустить Блокнот</item>
+        <item>Быстрая запись моментов вдохновения</item>
+        <item>2. Варианты записей：</item>
+        <item>Мы предлагаем большое количество шаблонов，</item>
+        <item>Например: бухгалтерский учет, список дел, дневник ...</item>
+        <item>Записи для различных сценариев</item>
+        <item>3. Заметки никогда не потеряются:</item>
+        <item>После записи, заметки будут синхронизироваться с облаком,</item>
+        <item>Никогда не потеряются,</item>
+        <item>Также можно просматривать на веб-сайте，</item>
+        <item>（Сайт：n.lenovo.com）</item>
+        <item>Мы продолжаем прогрессировать，</item>
+        <item>Я менеджер по продукции Bebe,</item>
+        <item>Добро пожаловать озабоченность MicroSina,</item>
+        <item>（MicroSina: Lenovo music Cloud notes）</item>
+        <item>И мы в курсе!</item>
+    </string-array>
+</resources>

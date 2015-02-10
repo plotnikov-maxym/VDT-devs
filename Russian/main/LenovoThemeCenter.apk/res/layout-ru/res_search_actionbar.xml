@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@color/actionbar_bg_color" android:layout_width="fill_parent" android:layout_height="@dimen/actionbar_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditText android:id="@id/res_search_fake_button" android:layout_width="0.0dip" android:layout_height="0.0dip" />
+    <ImageView android:id="@id/exit_view" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="3.0dip" android:src="@drawable/back_selector" android:layout_alignParentLeft="true" android:layout_centerVertical="true" />
+    <RelativeLayout android:id="@id/res_search_background" android:background="@drawable/res_search_framework_background" android:layout_width="@dimen/research_dialog_width" android:layout_height="@dimen/research_dialog_height" android:layout_marginLeft="0.0dip" android:layout_toRightOf="@id/exit_view" android:layout_centerVertical="true">
+        <ImageView android:id="@id/res_search_magnifier_img" android:layout_width="@dimen/research_dialog_icon_size" android:layout_height="@dimen/research_dialog_icon_size" android:layout_marginLeft="5.0dip" android:src="@drawable/new_home_search" android:scaleType="fitXY" android:layout_alignParentLeft="true" android:layout_centerVertical="true" />
+        <EditText android:gravity="center_vertical" android:id="@id/res_search_input" android:background="@null" android:layout_width="@dimen/research_dialog_input_area_width" android:layout_height="@dimen/research_dialog_input_area_height" android:layout_marginLeft="5.0dip" android:hint="Введите слово для поиска" android:layout_toRightOf="@id/res_search_magnifier_img" android:layout_centerVertical="true" android:inputType="textCapWords" android:imeOptions="actionSearch" />
+        <ImageView android:id="@id/res_search_cancel_img" android:clickable="true" android:layout_width="@dimen/research_dialog_icon_size" android:layout_height="@dimen/research_dialog_icon_size" android:layout_marginRight="5.0dip" android:src="@drawable/push_message_delete" android:scaleType="fitXY" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+    </RelativeLayout>
+</RelativeLayout>

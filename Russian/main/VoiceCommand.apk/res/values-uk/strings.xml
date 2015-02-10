@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="voice_ui_camera_command_title">Голосове керування для камери</string>
+    <string name="voice_ui_phone_command_title">Голосове керування для телефону</string>
+    <string name="voice_ui_alarm_command_title">Голосове керування для тривоги</string>
+    <string name="app_name">Голосове керування</string>
+    <string name="voice_ui_title">Голосове керування</string>
+    <string name="voice_ui_app_category">Для додатків</string>
+    <string name="voice_ui_setting_category">Налаштування</string>
+    <string name="voice_ui_language_title">Мова для голосове керування</string>
+    <string name="incoming_call_app_name">Телефон</string>
+    <string name="alarm_app_name">Сигнал</string>
+    <string name="camera_app_name">Камера</string>
+    <string name="music_app_name">Музика</string>
+    <string name="incomming_command_summary_format">Визначити %1$s або %2$s відповісти на дзвінок.</string>
+    <string name="alarm_command_summary_format">Визначити %1$s або %2$s стежити за сигнал.</string>
+    <string name="camera_command_summary_format">Визначити %1$s або %2$s.</string>
+    <string name="music_command_summary_format">Визначити %1$s або %2$s музики.</string>
+    <string name="playback_failed">На жаль, не може відкрити файл.</string>
+    <string name="voice_ui_commands">Команда</string>
+</resources>

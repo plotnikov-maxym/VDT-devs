@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpaper">Шпалери2 на тему погоди від Lenovo</string>
+    <string name="animation">Перемикач анімації погоди</string>
+    <string name="switchopen">Перемикач анімації погоди активовано</string>
+    <string name="switchoff">Перемикач анімації погоди вимкнено</string>
+</resources>

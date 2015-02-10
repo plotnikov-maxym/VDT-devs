@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_name">
+        <item>Стандартные методы ввода</item>
+        <item>Стандартное ПО для настольных систем</item>
+        <item>Стандартное ПО для Интернета</item>
+        <item>Стандартное ПО для коммутируемого доступа</item>
+        <item>Стандартное ПО для SMS</item>
+        <item>Стандартное ПО для эл. почты</item>
+        <item>Стандартное ПО для просмотра изображений</item>
+        <item>Стандартное ПО для камеры</item>
+        <item>Стандартное ПО для видео</item>
+        <item>Стандартное ПО для видео по Интернету</item>
+        <item>Стандартное ПО для аудио</item>
+        <item>Стандартное ПО для аудио по Интернету</item>
+    </string-array>
+    <string-array name="start_name">
+        <item>Включить устройство</item>
+        <item>На телефоне</item>
+        <item>Прием SMS</item>
+        <item>Подключение оборудования к сети</item>
+        <item>Установка ПО</item>
+        <item>Разблокировка выключенного экрана</item>
+    </string-array>
+    <string-array name="softspacename">
+        <item>Системные рекомендации</item>
+        <item>Принудительно установить на телефон</item>
+        <item>Принудительно установить на карту памяти по умолчанию</item>
+    </string-array>
+    <string-array name="softpermission">
+        <item>Вкл.</item>
+        <item>Подключение к Интернету</item>
+        <item>Вызов</item>
+        <item>SMS</item>
+        <item>Чтение адресной книги</item>
+        <item>Получить информацию о местоположении</item>
+    </string-array>
+</resources>

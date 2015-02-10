@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Програма встановлення пакетів</string>
+    <string name="next">Далі</string>
+    <string name="install">Інсталювати</string>
+    <string name="done">Готово</string>
+    <string name="security_settings_desc">Дозволити цій програмі:</string>
+    <string name="cancel">Скасувати</string>
+    <string name="unknown">Невідомий</string>
+    <string name="installing">Інсталяція…</string>
+    <string name="install_done">Програму інстальовано</string>
+    <string name="install_confirm_question">Дійсно встановити цю програму? Вона отримає доступ до:</string>
+    <string name="install_confirm_question_no_perms">Дійсно встановити цю програму? Їй не потрібні жодні особливі доступи.</string>
+    <string name="install_confirm_question_update">Дійсно встановити оновлення для цієї наявної програми? Наявні дані втрачено не буде. Оновлена програма отримає доступ до:</string>
+    <string name="install_confirm_question_update_system">Дійсно встановити оновлення для цієї вбудованої програми? Наявні дані втрачено не буде. Оновлена програма отримає доступ до:</string>
+    <string name="install_confirm_question_update_no_perms">Установити оновлення для цієї наявної програми? Ваші наявні дані не буде втрачено. Спеціальний доступ не потрібен.</string>
+    <string name="install_confirm_question_update_system_no_perms">Установити оновлення для цієї вбудованої програми? Ваші наявні дані не буде втрачено. Спеціальний доступ не потрібен.</string>
+    <string name="install_failed">Програму не встановлено</string>
+    <string name="install_failed_invalid_apk">Пакет пошкоджено.</string>
+    <string name="install_failed_inconsistent_certificates">Наявний пакет із такою самою назвою з конфліктним підписом уже встановлено.</string>
+    <string name="install_failed_older_sdk">Пакет працює лише на новіших версіях Android.</string>
+    <string name="install_failed_cpu_abi_incompatible">Ця програма не сумісна з вашим телефоном.</string>
+    <string name="install_failed_file_not_found">Указаний пакет було видалено до ще завершення процесу встановлення.</string>
+    <string name="install_failed_verify_failed">Пакет не пройшов перевірку та не може бути встановлений.</string>
+    <string name="install_failed_verify_timeout">Вичерпано час очікування спроби перевірки цього пакета. Спробуйте встановити його пізніше.</string>
+    <string name="install_failed_msg">%1$s неможливо встановити в цьому телефоні.</string>
+    <string name="launch">Відкрити</string>
+    <string name="unknown_apps_dlg_title">Інсталяція заблокована</string>
+    <string name="unknown_apps_dlg_text">Задля безпеки ваш телефон налаштовано блокувати встановлення програм, отриманих із невідомих джерел.</string>
+    <string name="ok">OK</string>
+    <string name="settings">Установки</string>
+    <string name="allow_source_dlg_title">Нове джерело для програм</string>
+    <string name="allow_source_dlg_text">"%1$s хоче встановити інші програми. 
+
+Дозволити це зараз і надалі?"</string>
+    <string name="manage_applications">Керування програмами</string>
+    <string name="dlg_app_replacement_title">Замінити програму?</string>
+    <string name="dlg_app_replacement_statement">"Програма, яку ви інсталюєте, замінить іншу програму.
+
+Усі попередні дані користувача буде збережено."</string>
+    <string name="dlg_sys_app_replacement_statement">"Це системна програма.
+
+Усі попередні дані користувача буде збережено."</string>
+    <string name="out_of_space_dlg_title">Недостатньо місця</string>
+    <string name="out_of_space_dlg_text">Не вдалося встановити %1$s. Звільніть трохи місця та повторіть спробу.</string>
+    <string name="dlg_ok">OK</string>
+    <string name="app_not_found_dlg_title">Програму не знайдено</string>
+    <string name="app_not_found_dlg_text">Програму не знайдено в списку встановлених програм.</string>
+    <string name="uninstall_application_title">Видалити програму</string>
+    <string name="uninstall_update_title">Видалити оновлення</string>
+    <string name="uninstall_activity_text">%1$s є частиною такої програми:</string>
+    <string name="uninstall_application_text">Видалити цю програму?</string>
+    <string name="uninstall_application_text_all_users">Видалити цю програму для <b>всіх</b> користувачів? Програму та її дані буде видалено для <b>всіх</b> користувачів цього пристрою.</string>
+    <string name="uninstall_update_text">Замінити цю програму на заводську версію?</string>
+    <string name="uninstalling">Видалення…</string>
+    <string name="uninstall_done">Видалення завершено</string>
+    <string name="uninstall_failed">Не вдалося видалити</string>
+    <string name="uninstall_failed_device_policy_manager">Неможливо видалити. Цей пакет є активним адміністратором пристрою.</string>
+    <string name="manage_device_administrators">Керування адміністраторами пристрою</string>
+    <string name="uninstall_failed_msg">Не вдалося видалити програму %1$s.</string>
+    <string name="Parse_error_dlg_title">Помилка розбору</string>
+    <string name="Parse_error_dlg_text">Під час аналізу пакета виникла помилка.</string>
+    <string name="newPerms">Нові</string>
+    <string name="allPerms">Усі</string>
+    <string name="privacyPerms">Конфіденційність</string>
+    <string name="devicePerms">Доступ до пристрою</string>
+    <string name="no_new_perms">Для цього оновлення не потрібні нові права доступу.</string>
+    <string name="grant_confirm_question">Надати перелічені нижче права доступу? Програма отримає доступ до:</string>
+</resources>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="language_list_values">
+        <item>Всі мови</item>
+        <item>Німецький</item>
+        <item>Англійська</item>
+        <item>Італійський</item>
+        <item>французька</item>
+        <item>Іспанська</item>
+        <item>Голландська</item>
+        <item>Шведська</item>
+        <item>Данська</item>
+        <item>Португальська</item>
+        <item>Фінська</item>
+        <item>Норвезька</item>
+        <item>Грецький</item>
+        <item>Турецька</item>
+        <item>Угорська</item>
+        <item>Польський</item>
+        <item>Інші</item>
+        <item>Чеський</item>
+        <item>Іврит</item>
+        <item>Арабська</item>
+        <item>Русский</item>
+        <item>Ісландська</item>
+    </string-array>
+    <string-array name="clir_display_values">
+        <item>Налаштування мережі за замовчуванням</item>
+        <item>Приховати номер</item>
+        <item>Показувати номер</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>LTE/WCDMA</item>
+        <item>LTE</item>
+        <item>Глобальний</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>CDMA+LTE/EVDO</item>
+        <item>CDMA/EVDO/GSM/WCDMA</item>
+        <item>Тільки EvDo</item>
+        <item>CDMA без EVDO</item>
+        <item>CDMA/EVDO авто</item>
+        <item>GSM/WCDMA (авторежим)</item>
+        <item>Тільки WCDMA</item>
+        <item>Тільки GSM</item>
+        <item>GSM/WCDMA (перевага)</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>англійська</item>
+        <item>французька</item>
+        <item>іспанська</item>
+        <item>японський</item>
+        <item>корейська</item>
+        <item>китайський</item>
+        <item>іврит</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Тільки домашня</item>
+        <item>Автоматично</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>Звичайні</item>
+        <item>Довгі</item>
+    </string-array>
+    <string-array name="absent_num">
+        <item>ABSENT NUMBER</item>
+        <item>ABSENTNUMBER</item>
+    </string-array>
+    <string-array name="voicemail_notification_vibrate_when_values">
+        <item>завжди</item>
+        <item>тихий</item>
+        <item>ніколи</item>
+    </string-array>
+</resources>

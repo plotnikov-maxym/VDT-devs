@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Начальная Установка</string>
+    <string name="next">Следующий</string>
+    <string name="skip">Пропустить</string>
+    <string name="finish">Закончить</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Отменить</string>
+    <string name="tips">Совет</string>
+    <string name="title_act_language">Выбор языка</string>
+    <string name="title_act_network">Настройка сети</string>
+    <string name="title_act_server">Lenovo Enhanced</string>
+    <string name="title_act_license">Лицензионное соглашение Lenovo</string>
+    <string name="network_data_title">Передача данных</string>
+    <string name="netwrok_data_summary">Вы должны выбрать вашу SIM карту, для доступа в Интернет. При использовании данного подключения взымается оплата за трафик.</string>
+    <string name="network_wlan_title">WLAN</string>
+    <string name="network_wlan_summary_off">Нет соединения</string>
+    <string name="network_wlan_summary_on">Подключенно</string>
+    <string name="network_skip_tips">Для лучшего сервиса и поддержки, мы рекомендуем Интернет подключение.</string>
+    <string name="network_skip">Пропустить</string>
+    <string name="network_not_skip">Не пропускать</string>
+    <string name="lenovo_license_agree">Согласен</string>
+    <string name="server_lenovo_exp_summary">Перейти сюда для %1$s программной поддежки и %2$s сервиса.</string>
+    <string name="exp_color_text1">новой</string>
+    <string name="exp_color_text2">настройки</string>
+    <string name="server_lenovo_exp_span_text">Присоединяйтесь к Lenovo Enhanced Experience</string>
+    <string name="server_lenovo_exp_agree">Согласиться, чтобы присоедениться к Lenovo Enhanced Experience</string>
+    <string name="server_lenovo_exp_dialog_title">Совет</string>
+    <string name="server_lenovo_exp_tip">Мы рекомендуем Вам присоедениться к Lenovo Enhanced Experience для получения более качественных услуг и расширения мобильных возможностей.</string>
+    <string name="server_lenovo_exp_skip">Пропустить</string>
+    <string name="server_lenovo_exp_not_skip">Не пропускать</string>
+    <string name="pad_welcome_summary">Начните приключение с Леново</string>
+    <string name="pad_server_lenovo_exp_tip">Мы предлагаем вам присоединиться к Программе удучшения опыта Lenovo, чтобы получать более качественные услуги и расширенные возможности.</string>
+    <string name="pad_complete_congratulations">Поздравляем</string>
+    <string name="pad_complete_summary">Вы завершили конфигурацию загрузки и можете начать использовать свой ​​планшет!</string>
+    <string name="pad_complete_thanks">Спасибо за выбор Lenovo!</string>
+    <string name="pad_complete_start">Начать использовать устройство</string>
+    <string name="complete_summary">Вы завершили конфигурацию загрузки и можете начать использовать свой ​​телефон!</string>
+    <string name="title_act_transfer">Передача в один клик</string>
+</resources>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dlg_use_ipo_confirm">Швидка початкова завантаження при наступному перезавантаженні</string>
+    <string name="dlg_ipo_confirm_warning">У режимі швидкого завантаження живлення системи відключено не повністю. Не приєднуйте SIM- карту або карту памяті в цьому стані, тому що це призводить до її виходу з ладу.</string>
+    <string name="storage_sd_card">SD-карта</string>
+    <string name="storage_usb">USB-накопичувач</string>
+    <string name="storage_phone">Вбудована память</string>
+    <string name="storage_external_usb">Зовнішній USB-накопичувач</string>
+    <string name="ext_storage_internal_notification_title">Виконується підготовка внутрішньої карти памяті</string>
+    <string name="ext_storage_external_notification_title">Виконується підготовка зовнішньої карти памяті</string>
+    <string name="global_actions_toggle_open_airplane_mode_confirm">Включити режим польоту ?</string>
+    <string name="usb_notification_title">Параметри USB підключення</string>
+    <string name="usb_notification_content">Виберіть один з режимів</string>
+    <string name="default_string">За замовчуванням</string>
+    <string name="capital_on">ВКЛ.</string>
+    <string name="capital_off">ВИМК.</string>
+    <string name="kg_forgot_password_button_text">Забули пароль</string>
+    <string name="msg_shutdown_habit_guess">"Ви вже 3 рази вимикали телефон за останній час.
+Може пора перестати страждати дурницями і налаштувати розклад включення/виключення? "</string>
+    <string name="global_action_reboot">Перезавантаження</string>
+    <string name="reboot_confirm_title">Перезавантаження</string>
+    <string name="reboot_confirm_msg">Ваш телефон буде перезавантажений</string>
+    <string name="reboot_dialog_msg">" Натисніть кнопку живлення, щоб вимкнути після ^1 секунди.
+Продовжуйте натискати з 2-ї секунди для перезавантаження після виключення"</string>
+    <string name="silent_mode_silent">Тихо</string>
+    <string name="silent_mode_vibrate">Вібро</string>
+    <string name="silent_mode_normal">Норма</string>
+    <string name="silent_mode_outdoor">Голосно</string>
+    <string name="powerOnWarning_alarm_msg">Наступний будильник: %1$s</string>
+    <string name="powerOnWarning_boot_msg">Наступні включення : %1$s</string>
+    <string name="qreboot_confirm_title">Швидке перезавантаження</string>
+    <string name="qreboot_confirm_msg">швидке Перезавантаження тільки скине процеси програм. Будь ласка, перезавантажте при виникненні проблем в системі.</string>
+    <string name="long_back_exit_info">вихід</string>
+    <string name="prevent_misoperation_title">Запобігання неправильної роботи</string>
+    <string name="prevent_misoperation_message">Не торкайтеся до верхньої частини екрану</string>
+    <string name="prevent_misoperation_quit_hint">Прискорити закриття : натисніть кнопки \" Назад \" + \"Гучність + \"</string>
+    <string name="captive_portal_dialog_title">Увійдіть в мережу WLAN</string>
+    <string name="captive_portal_dialog_message">Вхід в систему потрібно для поточної мережі Wi-Fi перед доступом до інтернету, будь ласка, увійдіть в мережу</string>
+    <string name="captive_portal_dialog_button">Ввійти</string>
+    <string name="volume_icon_description_ringer">Виклики і повідомлення</string>
+    <string name="volume_icon_description_bluetooth">Bluetooth</string>
+    <string name="volume_icon_description_incall">Виклики</string>
+    <string name="volume_alarm">Будильник</string>
+    <string name="volume_fm">FM</string>
+    <string name="volume_matv">Mobile TV</string>
+    <string name="volume_icon_description_media">Медіа</string>
+    <string name="volume_icon_description_notification">Сповіщення</string>
+    <string name="not_support_too_long_string">Занадто багато для пошуку</string>
+    <string name="turn_on_mobile_data_warning">Увімкніть підключення для передачі даних, мобільний телефон буде використовувати деякі GPRS даних. Оператор буде дерти з вас бабло. Ви впевнені?</string>
+    <string name="next_time_no_warning">Більше не попереджати</string>
+    <string name="turn_on_data">Включити</string>
+    <string name="turn_off_data">Вимкнути</string>
+    <string name="keyguard_password_waring_dlg_title">Неправильний пароль</string>
+    <string name="keyguard_password_attempts_warning" formatted="false">Ви неправильно намагалися розблокувати телефон %d разів. Після %d невдалих спроб, телефон буде скинутий до заводських налаштувань і всі користувальницькі дані будуть втрачені.</string>
+    <string name="keyguard_password_waring_dlg_remind">ласка, введіть Lenovo і натисніть кнопку ОК, щоб продовжити.</string>
+    <string name="keyguard_password_dlg_input_err">Помилка введення, будь ласка, спробуйте знову</string>
+    <string name="zzz_wifi_display_bt_hdmi_off_wfd_on">Bluetooth буде відключений при включенні бездротового дисплея. Ви хочете продовжити?</string>
+    <string name="invalid_wlan_dialog_title">Wi-Fi</string>
+    <string name="invalid_wlan_dialog_message">Є деякі проблеми з доступом в Інтернет, будь ласка, перевірте поточну мережу WLAN або підключитися до іншої мережі WLAN</string>
+    <string name="invalid_wlan_dialog_button">Підключення до іншої мережі WLAN</string>
+    <string name="popup_menu_find">Пошук</string>
+    <string name="confirm_dialog_title">Підтвердити</string>
+    <string name="wifi_display_and_wifi_are_turned_on">Бездротовий дисплей і WLAN включені.</string>
+    <string name="component">система віджетів</string>
+    <string name="author">Автори Lenovo</string>
+    <string name="description">Lenovo стандартна тема</string>
+    <string name="app_name">Класика</string>
+</resources>

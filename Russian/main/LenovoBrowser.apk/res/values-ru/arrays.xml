@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bookmarks_title_cmcc">
+        <item>10086门户</item>
+    </string-array>
+    <string-array name="bookmarks_url_cmcc">
+        <item>http://10086.cn/m</item>
+    </string-array>
+    <string-array name="bookmarks_title_ctcc">
+        <item>Yandex</item>
+        <item>Mail.ru</item>
+        <item>YouTube</item>
+        <item>Словари</item>
+        <item>Я ищу</item>
+    </string-array>
+    <string-array name="bookmarks_url_ctcc">
+        <item>yandex.ru</item>
+        <item>www.mail.ru</item>
+        <item>www.youtube.com</item>
+        <item>slovari.yandex.ua/</item>
+        <item>www.google.com</item>
+    </string-array>
+    <string-array name="bookmarks_title_cucc">
+        <item>ka4ka</item>
+    </string-array>
+    <string-array name="bookmarks_url_cucc">
+        <item>http://ka4ka.ru</item>
+    </string-array>
+    <string-array name="homegrid_icons">
+        <item>10001</item>
+        <item>10111</item>
+        <item>10108</item>
+        <item>10002</item>
+        <item>10005</item>
+        <item>10110</item>
+        <item>10109</item>
+        <item>10009</item>
+        <item>10010</item>
+    </string-array>
+    <string-array name="homegrid_titles">
+        <item>навигация</item>
+        <item>RSS</item>
+        <item>ПО и игры</item>
+        <item>Baidu</item>
+        <item>Книги</item>
+        <item>ТВ</item>
+        <item>Wiki</item>
+        <item>Sina</item>
+        <item>Taobao</item>
+    </string-array>
+    <string-array name="bookmarks_title">
+        <item>Google</item>
+        <item>Яндекс</item>
+        <item>Одноклассники</item>
+        <item>Avito</item>
+        <item>ВКонтакте</item>
+    </string-array>
+    <string-array name="bookmarks_url">
+        <item>http://www.google.com/</item>
+        <item>http://www.yandex.ru/</item>
+        <item>http://m.odnoklassniki.ru/</item>
+        <item>http://m.avito.ru/</item>
+        <item>http://m.vk.com/</item>
+    </string-array>
+</resources>

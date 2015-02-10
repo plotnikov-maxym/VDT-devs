@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="phone_in_ecm_notification_time">
+        <item quantity="other">Підключення для передачі даних відсутня %s хв.</item>
+        <item quantity="one">Підключення для передачі даних відсутня %s хв.</item>
+    </plurals>
+    <plurals name="alert_dialog_exit_ecm">
+        <item quantity="other">Телефон залишатиметься в режимі екстрених зворотних викликів ще %s хв. При цьому будуть недоступні додатки з підтримкою передачі даних. Вийти?</item>
+        <item quantity="one">Телефон залишатиметься в режимі екстрених зворотних викликів ще %s хв. При цьому будуть недоступні додатки з підтримкою передачі даних. Вийти?</item>
+    </plurals>
+    <plurals name="alert_dialog_not_avaialble_in_ecm">
+        <item quantity="other">Вибрана дія неможливо при екстрених зворотних викликах. Телефон буде залишатися в цьому режимі ще %s хв. Вийти?</item>
+        <item quantity="one">Вибрана дія неможливо при екстрених зворотних викликах. Телефон буде залишатися в цьому режимі ще %s хв. Вийти?</item>
+    </plurals>
+</resources>

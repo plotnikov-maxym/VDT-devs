@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_label">Е.М. SIM ME заблоковано</string>
+    <string name="simmelock_name">SIM-ME заблоковано</string>
+    <string name="strInputPassword">Введіть пароль:</string>
+    <string name="strConfirm">Завершити</string>
+    <string name="strCancel">Скасувати</string>
+    <string name="strInputChancesleft">Залишилося спроб:</string>
+    <string name="strInputPasswordAgain">Введіть пароль ще раз:</string>
+    <string name="strAttention">Увага</string>
+    <string name="strConfirmRemove">Видалити?</string>
+    <string name="srtConfirmPermanUnlock">Розблокувати назавжди?</string>
+    <string name="strYes">Так</string>
+    <string name="strLockFail">Помилка блокування!</string>
+    <string name="strLockSucceed">Заблоковано!</string>
+    <string name="strUnlockFail">Збій розблокування!</string>
+    <string name="strUnlockSucceed">Розблоковано!</string>
+    <string name="strUserInput">Введення користувача</string>
+    <string name="strInputMode">Введено користувачем ?</string>
+    <string name="strLockNameNetwork">Персоналізація мережі</string>
+    <string name="strLockNameNetworkSub">Ділянка мережевий персоналізації</string>
+    <string name="strLockNameService">Персоналізація постачальника послуг</string>
+    <string name="strLockNameCorporate">Персоналізація компанії</string>
+    <string name="strLockNameSIM">Персоналізація SIM- картки</string>
+    <string name="strActionNameLock">Блокування</string>
+    <string name="strActionNameUnlock">Розблокувати</string>
+    <string name="strActionNameAddLock">Додати</string>
+    <string name="strActionNameRemoveLock">Видалити</string>
+    <string name="strActionNamePermanentUnlock">Розблокувати назавжди</string>
+    <string name="strPasswordLengthIncorrect">4-8 символів!</string>
+    <string name="strQueryFailed">Помилка запиту!</string>
+    <string name="strAddLockFail">Збій додавання!</string>
+    <string name="strAddLockSucceed">Додано!</string>
+    <string name="strMCCMNCLengthIncorrect">Неприпустимий MCC+MNC</string>
+    <string name="strMCCMNCHLRLengthIncorrect">Неприпустимий MCC+MNC+РИМ</string>
+    <string name="strIMSILengthIncorrect">Неприпустимий IMSI!</string>
+    <string name="strGID1WRONG">Неприпустимий GID1!</string>
+    <string name="strGID2WRONG">Неприпустимий GID12!</string>
+    <string name="str_simme_passwords_dont_match">Паролі не збігаються</string>
+</resources>
